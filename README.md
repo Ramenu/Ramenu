@@ -1,1 +1,1 @@
-I have given up GitHub for the most part due to [ethical](https://sfconservancy.org/blog/2022/jun/30/give-up-github-launch/) concerns. I'm mostly active on [Codeberg](https://codeberg.org/ramenu) nowadays. For a full list of my personal projects, visit my website.
+I have given up GitHub for the most part due to [ethical](https://sfconservancy.org/blog/2022/jun/30/give-up-github-launch/) concerns. I'm mostly active on [Codeberg](https://codeberg.org/ramenu) nowadays. For a full list of my personal projects, visit my [self-hosted Git server](https://git.missingno.dev).
